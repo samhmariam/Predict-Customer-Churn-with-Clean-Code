@@ -29,10 +29,12 @@ Overview of the files and data present in the root directory.
 2. Activate the environment and install the packages in `requirements_py3.10.txt`
 
     `conda activate churn_env`
+
     `conda install --file requirements_py3.10.txt`
 3. Run the scripts
 
     `python churn_library.py`
+    
     `python churn_script_logging_and_tests.py`
 
 
